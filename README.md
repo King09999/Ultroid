@@ -12,7 +12,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FKing09999%2FTraveliTg&template=https%3A%2F%2Fgithub.com%2FKing099990%2FTraveliTg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FKing09999%2FArchived&template=https%3A%2F%2Fgithub.com%2FKing09999%2FArchived)
 
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
